@@ -1,5 +1,8 @@
 # include "./includes/miinclude.h"
+<<<<<<< HEAD
 #include <string.h>
+=======
+>>>>>>> ramaA
 
 int main() {
 	printf("Hola mundo\n");
